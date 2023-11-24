@@ -1,0 +1,19 @@
+ Semantic element in HTML5? 
+
+ HTML5 introduced several semantic elements that provide clearer structure and meaning to web content. These elements help search engines, accessibility tools, and developers understand the purpose and context of different parts of a webpage. Some of the key semantic elements introduced in HTML5 are:
+
+<header>: Represents introductory content or a group of introductory content. It typically contains headings, logos, navigation, etc.
+
+<footer>: Defines the footer of a document or a section. It often contains copyright information, authorship details, links to related documents, etc.
+
+<nav>: Indicates a section of a page that contains navigation links.
+
+<article>: Represents an independent, self-contained piece of content. It can be a blog post, a forum post, a news article, etc.
+
+<section>: Defines a thematic grouping of content within a document. It helps in organizing content into distinct sections.
+
+<aside>: Represents content that is tangentially related to the content around it. It can be used for sidebars, pull quotes, related links, etc.
+
+<main>: Specifies the main content of the document. It excludes content that is repeated across multiple pages like headers, footers, navigation, etc.
+
+<figure> and <figcaption>: <figure> is used to encapsulate media content like images, videos, diagrams, etc., and <figcaption> provides a caption for the content within <figure>.

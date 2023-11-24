@@ -1,0 +1,37 @@
+ How to embed audio and video in a webpage? 
+
+ In HTML5, you can embed audio and video content using the <audio> and <video> tags, respectively. Here's an example of how you can use these tags to embed audio and video in a webpage:
+
+Embedding Audio:
+
+<audio controls>
+  <source src="audio-file.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+In this example:
+
+<audio> is the tag used to embed audio content.
+
+controls attribute adds playback controls (play, pause, volume) to the audio player.
+
+<source> specifies the audio file to be played and its type. You can include multiple <source> elements for different file formats to ensure compatibility across browsers.
+
+Embedding Video:
+
+<video width="640" height="360" controls>
+  <source src="video-file.mp4" type="video/mp4">
+  Your browser does not support the video element.
+</video>
+
+In this example:
+
+<video> is the tag used to embed video content.
+
+width and height attributes define the dimensions of the video player.
+
+controls attribute adds playback controls (play, pause, volume, etc.) to the video player.
+
+<source> specifies the video file to be played and its type. As with audio, multiple <source> elements can be included for different file formats.
+
+Make sure to replace "audio-file.mp3" and "video-file.mp4" with the paths to your actual audio and video files, respectively. Also, provide alternative content within the tags (e.g., "Your browser does not support...") for browsers that do not support the <audio> or <video> elements or the specified file formats.

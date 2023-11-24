@@ -1,0 +1,25 @@
+What are the new tags added in HTML5? 
+
+HTML5 introduced several new tags that were not available in previous versions. Some of these new tags are:
+
+<header>: Used to define introductory content for a section or a page.
+
+<footer>: Specifies the footer for a section or a page.
+
+<nav>: Represents a section with navigation links.
+
+<article>: Defines an independent piece of content, such as a blog post or a news article.
+
+<section>: Represents a thematic grouping of content within a document.
+
+<aside>: Indicates content aside from the main content, such as sidebars or related content.
+
+<main>: Specifies the main content of the document, excluding header, footer, and navigation content.
+
+<figure> and <figcaption>: Used together to represent self-contained content, such as images or illustrations, along with a caption.
+
+<time>: Specifies a specific time or date, useful for marking up dates and times in a machine-readable format.
+
+<progress>: Displays the progress of a task, typically with a progress bar.
+
+<meter>: Represents a scalar measurement within a known range, such as disk usage or temperature.
